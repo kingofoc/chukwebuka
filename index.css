@@ -34,6 +34,26 @@ header{
 
 /* for screen b/w 0-300px*/
 @media (max-width: 300px){
+  a{
+    text-decoration: none;
+  }
+  header{
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+  }
+  #hInnerWrap{
+    display: flex;
+    background-color: transparent;
+    height: auto;
+    width: 90%;
+    margin: 20px 5%;
+    padding: 0;
+  }
+  #logoBox{
+    margin: 0;
+    flex: 1;
+  }
   #logoText{
     background-color: transparent;
     color: #000008f6;
@@ -59,6 +79,26 @@ header{
 /* for screen b/w 300-450px*/
 @media (max-width: 900px){ 
   @media (min-width: 451px){
+    a{
+      text-decoration: none;
+    }
+    header{
+      width: 100%;
+      height: auto;
+      background-color: transparent;
+    }
+    #hInnerWrap{
+      display: flex;
+      background-color: transparent;
+      height: auto;
+      width: 90%;
+      margin: 20px 5%;
+      padding: 0;
+    }
+    #logoBox{
+      margin: 0;
+      flex: 1;
+    }
     #logoText{
       background-color: transparent;
       color: #000008f6;
