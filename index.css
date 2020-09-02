@@ -30,6 +30,22 @@ header{
   font-weight: bolder;
   font-size: 26px;
 }
+#sInnerWrap{
+  display: flex;
+  background-color: transparent;
+  height: auto;
+  width: 90%;
+  margin: 20px 5%;
+  padding: 0;
+}
+#fInnerWrap{
+  display: flex;
+  background-color: transparent;
+  height: auto;
+  width: 90%;
+  margin: 20px 5%;
+  padding: 0;
+}
 
 
 /* for screen b/w 0-300px*/
