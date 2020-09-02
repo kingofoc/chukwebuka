@@ -40,7 +40,7 @@ header{
 }
 #fInnerWrap{
   display: flex;
-  background-color: transparent;
+  background-color: #000008f6;
   height: auto;
   width: 90%;
   margin: 20px 5%;
