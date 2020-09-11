@@ -30,10 +30,13 @@ header{
   font-weight: bolder;
   font-size: 26px;
 }
+section{
+  display: block;
+}
 #sInnerWrap{
   display: flex;
-  background-color: transparent;
-  height: auto;
+  background-color: #000008f6;
+  height: 570px;
   width: 90%;
   margin: 20px 5%;
   padding: 0;
